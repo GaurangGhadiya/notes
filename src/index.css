@@ -14,12 +14,16 @@
   padding-left: 50px;
   color: white;
   box-shadow: 5px 3px 15px -5px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  z-index: 1;
 }
 
 .main_note {
   width: 500px;
   margin: 20px auto;
   padding: 15px 10px 5px 10px;
+  margin-top: 111px;
 }
 
 .my_notes h1 {
